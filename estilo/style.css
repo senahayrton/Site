@@ -153,8 +153,8 @@ article {
 
 article div{
     background-color: var(--cor5);
-    margin-left: -26px; 
-    margin-right: -26px;
+    margin-left: -24px; 
+    margin-right: -24px;
 }
 
 article img{
@@ -165,7 +165,7 @@ article img{
 
 
 div.video > iframe{
-    padding: 4% 2% 4% 4%;
+    padding: 4% 0% 4% 4%;
     width: 92%;
 }
 
